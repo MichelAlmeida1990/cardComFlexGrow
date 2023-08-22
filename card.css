@@ -26,14 +26,33 @@
     justify-content: center;
     flex-grow: 1;
   }
- 
-  .card-tres {
+
+  .card-um:hover {
+    background-color: blueviolet;
+  }
+
+  .card-dois:hover {
+    background-color: cornflowerblue;
+  }
+
+  
+  .card-tres:hover {
     flex-grow: 2;
+    background-color: aqua;
+  }
+
+  .card-quatro:hover {
+    background-color: darkgreen;
   }
  
  
-  .card-cinco {
+  .card-cinco:hover {
     flex-grow: 3;
+    background-color: burlywood;
+  }
+
+  .card-seis:hover {
+    background-color: rgb(223, 79, 203);
   }
 
  
